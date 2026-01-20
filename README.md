@@ -7,7 +7,6 @@
 I’m a **Full-Stack Developer**, **International Speaker**, and **Passionate Advocate for Establishing World Peace** — dedicated to using technology and compassion to create a better, more connected world. 
 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 
 
