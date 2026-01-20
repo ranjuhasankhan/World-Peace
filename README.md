@@ -4,7 +4,12 @@
 
 ## 💫 About Me  
 
-I’m a **Full-Stack Developer**, **International Speaker**, and **Passionate Advocate for Establishing World Peace** — dedicated to using technology and compassion to create a better, more connected world.  
+I’m a **Full-Stack Developer**, **International Speaker**, and **Passionate Advocate for Establishing World Peace** — dedicated to using technology and compassion to create a better, more connected world. 
+
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+
 
 I specialize in building modern, scalable, and user-friendly web applications using the **MERN stack** (**MongoDB**, **Express.js**, **React**, and **Node.js**). I’m skilled at designing responsive interfaces, managing server-side logic, and integrating powerful database solutions that bring ideas to life.  
 
