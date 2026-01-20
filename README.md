@@ -7,7 +7,7 @@
 I’m a **Full-Stack Developer**, **International Speaker**, and **Passionate Advocate for Establishing World Peace** — dedicated to using technology and compassion to create a better, more connected world. 
 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
 
 
 
