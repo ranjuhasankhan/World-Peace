@@ -78,5 +78,5 @@ I specialize in building modern, scalable, and user-friendly web applications us
 I’m a **self-motivated and dedicated developer** who loves learning, building, and sharing knowledge.  
 With a passion for **clean code**, **creative design**, and **world peace**, I aim to make a positive impact — through both technology and humanity.  
 
-⭐ **From [Ranju Hasan Khan](https://github.com/ranjuhasankhan)**  
+⭐ **From [Ranju Hasan Khan](https://github.com/ranjuhasankhan)** 
 
